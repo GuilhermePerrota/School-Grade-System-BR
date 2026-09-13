@@ -30,8 +30,8 @@ School Grade System é um sistema desktop desenvolvido em Java para facilitar o 
 ## Exexutar
 
 Para Linux Mint:
-1. Abra o terminal nesta pasta.
-2. Execute: java -cp bin schoolgradesystem.Main
+1. javac -d bin src/schoolgradesystem/*.java
+2. java -cp bin schoolgradesystem.Mai
 
 Para Windows:
 1. javac -d bin src\schoolgradesystem\*.java
