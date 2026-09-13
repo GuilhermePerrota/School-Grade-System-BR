@@ -1,4 +1,5 @@
-# School-Grade-System
+# School-Grade-System 
+# Ainda em desenvolvimento
 School Grade System é um sistema desktop desenvolvido em Java para facilitar o gerenciamento acadêmico de alunos do Ensino Médio. A aplicação permite cadastrar estudantes, organizar informações por série e turma, registrar notas e calcular automaticamente as médias e situações acadêmicas. 
 
 ## Funcionalidades
@@ -49,6 +50,7 @@ O projeto e um trabalho escolar/demo. A senha esta diretamente no codigo de prop
 A aprovação está configurada para média **maior ou igual a 6,0**.
 
 ## Próximas Atualizações
+O projeto ainda está em desenvolvimento:
 
 - Melhorias na UI
 - Vincular com banco de dados
