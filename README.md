@@ -47,3 +47,14 @@ O projeto e um trabalho escolar/demo. A senha esta diretamente no codigo de prop
 ##
 
 A aprovação está configurada para média **maior ou igual a 6,0**.
+
+## Próximas Atualizações
+
+- Melhorias na UI
+- Vincular com banco de dados
+- Filtros de semestre, bimestre, trimestre...
+
+## Autor
+Desenvolvido por Guilherme Perrota
+
+Sinta-se à vontade para entrar em contato ou fazer sugestões de melhoria!
